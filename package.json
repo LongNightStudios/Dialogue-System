@@ -1,0 +1,16 @@
+{
+    "name": "com.gist-importer",
+    "displayName": "Gist Importer",
+    "version": "1.0.0",
+    "unity": "2019.4",
+    "description": "Import code directly from gist.",
+    "type": "tools",
+    "dependencies": {
+        "com.unity.textmeshpro": "3.2.0",
+        "com.demigiant.dotween": "https://github.com/Demigiant/dotween"
+    },
+    "author": {
+        "name": "Alexandre Gaudencio",
+        "email": "alexandre.gtpjr@gmail.com"
+    }
+}
