@@ -6,7 +6,8 @@
     "description": "A simple dialogue system for own proposes.",
     "type": "module",
     "dependencies": {
-        "com.unity.textmeshpro": "3.0.9"
+        "com.unity.textmeshpro": "3.0.9",
+        "com.lns.dialoguesystem":"https://github.com/LongNightStudios/Dialogue-System.git"
     },
     "author": {
         "name": "Alexandre Gaudencio - Lucas Fernandes",
