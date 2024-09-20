@@ -6,7 +6,7 @@
     "description": "Import code directly from gist.",
     "type": "module",
     "dependencies": {
-        "com.unity.textmeshpro": "3.2.0"
+        "com.unity.textmeshpro": "3.0.9"
     },
     "author": {
         "name": "Alexandre Gaudencio",
